@@ -6,7 +6,7 @@ function Footer() {
       <div className="w-full h-50 bg-gray-200 flex items-center md:flex-wrap justify-center mt-20  shadow-xl">
         <div className="m-10">
           <p className="text-gray-900  text-md md:text-lg font-bold  ">
-            Hey my is Bhushan currently in second year learnig MERN stack I have
+            Hey my name is Bhushan currently in second year learnig MERN stack I have
             given my Contact Links below you can connect me with this
           </p>
           <div className="flex items-center justify-center">
