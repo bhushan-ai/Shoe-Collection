@@ -29,7 +29,7 @@ function Footer() {
               <span className="sr-only">LinkedIn</span>
             </a>
             <a
-              href="mailto:bhushaningole2004@gmail.com?subject=Contact from Portfolio"
+              href="mailto:bhushaningole2004@gmail.com?subject=Contact from shoecollection"
               className="text-gray-800 hover:transition duration-300 mt-8 ml-3"
             >
               <Mail size={24} />
