@@ -15,7 +15,7 @@ function Header() {
             <NavLink
               to="/Myshoes"
               className={({ isActive }) =>
-                ` p-2.5 cursor-pointer font-semibold  text-sm md:text-lg ${
+                ` p-2.5 cursor-pointer font-semibold text-lg dark:hover:text-blue-400 transition duration-300 ${
                   isActive ? "text-blue-400 font-bold " : "  text-gray-600"
                 } `
               }
@@ -28,7 +28,7 @@ function Header() {
             <NavLink
               to="/MostFav"
               className={({ isActive }) =>
-                ` p-2.5 cursor-pointer font-semibold text-sm md:text-lg  ${
+                ` p-2.5 cursor-pointer font-semibold text-lg dark:hover:text-blue-400 transition duration-300 ${
                   isActive ? "text-blue-400 font-bold " : "  text-gray-600"
                 } `
               }
@@ -40,7 +40,7 @@ function Header() {
             <NavLink
               to="/Upcomming"
               className={({ isActive }) =>
-                ` p-2.5 cursor-pointer font-semibold text-sm md:text-lg  ${
+                `p-2.5 cursor-pointer font-semibold text-lg dark:hover:text-blue-400 transition duration-300  ${
                   isActive ? "text-blue-400 font-bold " : "  text-gray-600"
                 } `
               }
