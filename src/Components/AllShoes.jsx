@@ -18,18 +18,18 @@ function AllShoes() {
       img: "https://img.cdnx.in/210522/hamawabanner-1734001933133.jpeg?width=600&format=webp",
     },
     {
-      name: "Abros DASHON Running Shoe",
-      price: "$11",
-      actual_price: "$21",
-      rating: "4.1",
-      img: "https://rukminim1.flixcart.com/image/2416/2416/xif0q/shoe/z/k/c/6-assg1453-black-sea-green-abros-black-sea-green-original-imah2ghvpz6hu3a5.jpeg?q=90&crop=false",
-    },
-    {
       name: "Air Force 1",
       price: "$130",
       actual_price: "$170",
       rating: "4.5",
       img: "https://img.cdnx.in/210522/1705306958050_SKU-1803_0.png?width=600&format=webp",
+    },
+    {
+      name: "Abros DASHON Running Shoe",
+      price: "$11",
+      actual_price: "$21",
+      rating: "4.1",
+      img: "https://rukminim1.flixcart.com/image/2416/2416/xif0q/shoe/z/k/c/6-assg1453-black-sea-green-abros-black-sea-green-original-imah2ghvpz6hu3a5.jpeg?q=90&crop=false",
     },
     {
       name: "Dunk Low University Blue",
